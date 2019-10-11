@@ -38,8 +38,6 @@ I have a separate website for my photography: **[adamgross.photography](http://a
 * [National Geographic Greatest Landscapes: Stunning Photographs That Inspire and Astonish](https://www.amazon.com/gp/product/1426217129/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 * [The Ansel Adams Wilderness by Peter Essick](https://www.amazon.com/Ansel-Adams-Wilderness-Peter-Essick/dp/1426213298/ref=sr_1_3?keywords=ansel+adams+wilderness&qid=1569447667&s=gateway&sr=8-3)
 
-## 2019
-
 ### Alabama Hills, California
 ![](https://lh3.googleusercontent.com/ZGVHO1L8880lf8-3NbGgHMOtV5Jc2P5q1DVGl2HpWDgq0vIO78eIFA-jn0bsAlTff4M69C31fvM3ewMJRRDLJQwizzyu3ZOpd_vp_hqUBw8u58JfdPFL1ZMQ9e_5z1f45SOfNGHype0=w2400){:height="640px" width="960px" .center-image}
 
