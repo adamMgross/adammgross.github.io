@@ -106,6 +106,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### On Audible
 
+* [Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
 * [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
 * [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * [The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-GREENE-ROBERT/dp/1781259194/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=laws+of+human+nature&qid=1559943758&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
