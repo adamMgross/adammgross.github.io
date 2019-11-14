@@ -68,3 +68,7 @@ My favorite movies and TV shows:
 * [Trailer Park Boys](http://www.imdb.com/title/tt0290988/?ref_=nv_sr_1)
 * [Cowboy Bebop](https://www.imdb.com/title/tt0213338/?ref_=nv_sr_1)
 
+## To Watch
+* [Black Orpheus](https://www.imdb.com/title/tt0053146/)
+* [Grizzly Man](https://www.imdb.com/title/tt0427312/?ref_=nm_knf_t4)
+* [Queen of the Desert](https://www.imdb.com/title/tt1837636/?ref_=nm_flmg_dr_9)
