@@ -54,7 +54,7 @@ My favorite movies and TV shows:
 * [Cowboy Bebop the Movie](https://www.imdb.com/title/tt0275277/)
 
 ## TV
-* [Parts Unknown](https://www.imdb.com/title/tt2845786/?ref_=nv_sr_1?ref_=nv_sr_1)
+
 * [Chef's Table](https://www.imdb.com/title/tt4295140/?ref_=nv_sr_1?ref_=nv_sr_1)
 * [Barry](https://www.imdb.com/title/tt5348176/?ref_=fn_al_tt_1)
 * [South Park](http://www.imdb.com/title/tt0121955/?ref_=fn_al_tt_1)
@@ -64,11 +64,12 @@ My favorite movies and TV shows:
 * [Black Mirror](http://www.imdb.com/title/tt2085059/?ref_=nv_sr_1)
 * [Planet Earth](http://www.imdb.com/title/tt0795176/?ref_=fn_al_tt_1)
 * [Top Gear](http://www.imdb.com/title/tt1628033/?ref_=nv_sr_1)/[The Grand Tour](http://www.imdb.com/title/tt5712554/?ref_=nv_sr_1)
-* [Entourage](http://www.imdb.com/title/tt0387199/?ref_=fn_al_tt_1)
 * [Trailer Park Boys](http://www.imdb.com/title/tt0290988/?ref_=nv_sr_1)
 * [Cowboy Bebop](https://www.imdb.com/title/tt0213338/?ref_=nv_sr_1)
+* [Rick and Morty](https://www.imdb.com/title/tt2861424/)
 
 ## To Watch
 * [Black Orpheus](https://www.imdb.com/title/tt0053146/)
 * [Queen of the Desert](https://www.imdb.com/title/tt1837636/?ref_=nm_flmg_dr_9)
 * [Happy People: A Year in the Taiga](https://www.imdb.com/title/tt1683876/)
+* [The Wind Rises](https://www.imdb.com/title/tt2013293/)
