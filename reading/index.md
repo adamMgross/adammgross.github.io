@@ -22,18 +22,19 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Primary
 
-* [Maps of Meaning by Jordan Peterson](https://www.amazon.com/gp/product/0415922224/ref=dbs_a_def_rwt_bibl_vppi_i1)
+* [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 
 #### Dabbling
-* [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
+
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-* [Coming Into the Country by John McPhee](https://www.amazon.com/gp/product/0374522871/ref=dbs_a_def_rwt_bibl_vppi_i3)
 
 
 ## Have Read
 
 ### 2019
 
+* [Coming Into the Country by John McPhee](https://www.amazon.com/gp/product/0374522871/ref=dbs_a_def_rwt_bibl_vppi_i3)
+* [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245/ref=sr_1_1?crid=26HGQ2FA7RH0E&keywords=biography+of+john+muir&qid=1564005567&s=gateway&sprefix=graduated+neu%2Caps%2C271&sr=8-1)
 * [The Story of Tea: A Cultural History and Drinking Guide](https://www.amazon.com/Story-Tea-Cultural-History-Drinking/dp/1580087450/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=the+story+of+tea&qid=1560181101&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
 * [Upheaval: Turning Points for Nations in Crisis by Jared Diamond](https://www.amazon.com/Upheaval-Turning-Points-Nations-Crisis/dp/0316409138)
@@ -110,7 +111,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
 * [Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body by Daniel Goleman and Richard Davidson](https://www.amazon.com/gp/product/0399184384/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * [The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-GREENE-ROBERT/dp/1781259194/ref=sr_1_1?crid=OWUZFRM97NQF&keywords=laws+of+human+nature&qid=1559943758&s=gateway&sprefix=aa+ba%2Caps%2C182&sr=8-1)
-* [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [One Hundred Years of Solitude by Gabriel Garcia Marquez](https://www.amazon.com/gp/product/0060531045/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 * [Team Human by Douglas Rushkoff](https://www.amazon.com/gp/product/039365169X/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 * [Superminds: The Surprising Power of People and Computers Thinking Together by Thomas Malone](https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together/dp/0316349135/ref=sr_1_1?ie=UTF8&qid=1547842213&sr=8-1&keywords=superminds)
