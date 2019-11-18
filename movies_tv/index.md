@@ -73,3 +73,4 @@ My favorite movies and TV shows:
 * [Queen of the Desert](https://www.imdb.com/title/tt1837636/?ref_=nm_flmg_dr_9)
 * [Happy People: A Year in the Taiga](https://www.imdb.com/title/tt1683876/)
 * [The Wind Rises](https://www.imdb.com/title/tt2013293/)
+* [Nomad: In the Footsteps of Bruce Chatwin](https://www.imdb.com/title/tt10011296/)
