@@ -69,8 +69,15 @@ My favorite movies and TV shows:
 * [Rick and Morty](https://www.imdb.com/title/tt2861424/)
 
 ## To Watch
+
 * [Black Orpheus](https://www.imdb.com/title/tt0053146/)
 * [Queen of the Desert](https://www.imdb.com/title/tt1837636/?ref_=nm_flmg_dr_9)
 * [Happy People: A Year in the Taiga](https://www.imdb.com/title/tt1683876/)
 * [The Wind Rises](https://www.imdb.com/title/tt2013293/)
 * [Nomad: In the Footsteps of Bruce Chatwin](https://www.imdb.com/title/tt10011296/)
+* [Into the Inferno](https://www.imdb.com/title/tt4846318)
+* [Lo and Behold: Reveries of the Connected World](https://www.imdb.com/title/tt5275828)
+* [Wheel of Time](https://www.imdb.com/title/tt0331080/)
+* [Encounters at the End of the World](https://www.imdb.com/title/tt1093824)
+* [The Dark Glow of the Mountains](https://www.imdb.com/title/tt0087317)
+* [Fata Morgana](https://www.imdb.com/title/tt0067085/)
