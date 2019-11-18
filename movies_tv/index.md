@@ -6,7 +6,7 @@ My favorite movies and TV shows:
 
 ## Movies
 
-* [Get Out](https://www.imdb.com/title/tt5052448/?ref_=nv_sr_1?ref_=nv_sr_1)
+* [Grizzly Man](https://www.imdb.com/title/tt0427312/?ref_=nm_knf_t4)
 * [The National Parks: America's Best Idea](https://en.wikipedia.org/wiki/The_National_Parks:_America%27s_Best_Idea)
 * [Children of Men](http://www.imdb.com/title/tt0206634/)
 * [Chungking Express](https://www.imdb.com/title/tt0109424/)
@@ -70,5 +70,5 @@ My favorite movies and TV shows:
 
 ## To Watch
 * [Black Orpheus](https://www.imdb.com/title/tt0053146/)
-* [Grizzly Man](https://www.imdb.com/title/tt0427312/?ref_=nm_knf_t4)
 * [Queen of the Desert](https://www.imdb.com/title/tt1837636/?ref_=nm_flmg_dr_9)
+* [Happy People: A Year in the Taiga](https://www.imdb.com/title/tt1683876/)
