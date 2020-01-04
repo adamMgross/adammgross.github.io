@@ -22,17 +22,19 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Primary
 
-* [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
+* [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 
 #### Dabbling
 
-* [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-
-
 ## Have Read
+
+### 2020
+
+* [Zen and the Art of Motorcycle Maintenance by Robert Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/)
 
 ### 2019
 
+* [The Third Chimpanzee by Jared Diamond](https://www.amazon.com/Third-Chimpanzee-Evolution-Future-Animal/dp/0060845503/ref=sr_1_1?s=books&ie=UTF8&qid=1520700920&sr=1-1&keywords=The+Third+Chimpanzee+by+Jared+Diamond)
 * [Coming Into the Country by John McPhee](https://www.amazon.com/gp/product/0374522871/ref=dbs_a_def_rwt_bibl_vppi_i3)
 * [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245/ref=sr_1_1?crid=26HGQ2FA7RH0E&keywords=biography+of+john+muir&qid=1564005567&s=gateway&sprefix=graduated+neu%2Caps%2C271&sr=8-1)
