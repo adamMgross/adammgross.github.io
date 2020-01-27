@@ -20,16 +20,16 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## In Progress
 
-#### Primary
-
-* [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-
-#### Dabbling
+* [The Heartbeat of Wounded Knee: Native America from 1890 to the Present by David Treuer](https://www.amazon.com/Heartbeat-Wounded-Knee-America-Present/dp/0399573194/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=the+heartbeat+of+wounded+knee&qid=1580153282&sprefix=JASPER+%2Caps%2C194&sr=8-1)
+* [What Went Wrong?: The Clash Between Islam and Modernity in the Middle East by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054/ref=sr_1_1?s=books&ie=UTF8&qid=1520701048&sr=1-1&keywords=What+Went+Wrong%3F+by+Bernard+Lewis)
+* [Lila: An Inquiry into Morals by Robert Pirsig](https://www.amazon.com/Lila-Inquiry-Robert-M-Pirsig/dp/0553299611/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=lila+robert+pirsig&qid=1580153497&sprefix=JASPER+%2Caps%2C194&sr=8-1)
+* [Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West by Stephen Ambrose](https://www.amazon.com/Undaunted-Courage-Meriwether-Jefferson-American/dp/0684826976)
 
 ## Have Read
 
 ### 2020
 
+* [Life on the Edge: The Coming of Age of Quantum Biology by Johnjoe Mcfadden and Jim Al-Khalili](https://www.amazon.com/Life-Edge-Coming-Quantum-Biology/dp/0307986829/ref=sr_1_2?crid=1ZAIVG2RGRN8S&keywords=life+on+the+edge&qid=1580153266&sprefix=JASPER+%2Caps%2C194&sr=8-2)
 * [Zen and the Art of Motorcycle Maintenance by Robert Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/)
 
 ### 2019
@@ -121,7 +121,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [1491: New Revelations of the Americas Before Columbus by Charles Mann](https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059/ref=sr_1_1?s=books&ie=UTF8&qid=1520700975&sr=1-1&keywords=1491%3A+The+Americas+Before+Columbus+by+Charles+Mann)
 * [Mean Genes by Terry Burnham](https://www.amazon.com/Mean-Genes-Taming-Primal-Instincts/dp/0142000078/ref=sr_1_2?s=books&ie=UTF8&qid=1520700402&sr=1-2&keywords=mean+genes)
 * [The Paradox of Choice by Barry Schwartz](https://www.amazon.com/Paradox-Choice-More-Less-Revised/dp/0062449923/ref=sr_1_1?s=books&ie=UTF8&qid=1520700451&sr=1-1&keywords=the+paradox+of+choice)
-* [What Went Wrong? by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054/ref=sr_1_1?s=books&ie=UTF8&qid=1520701048&sr=1-1&keywords=What+Went+Wrong%3F+by+Bernard+Lewis)
 * [Metamorphosis by Franz Kafka](https://www.amazon.com/Metamorphosis-Franz-Kafka/dp/1557427666/ref=sr_1_3?s=books&ie=UTF8&qid=1520701068&sr=1-3&keywords=Metamorphosis+by+Franz+Kafka)
 * [Culture and Imperialism by Edward Said](https://www.amazon.com/Culture-Imperialism-Edward-W-Said/dp/0679750541/ref=sr_1_1?s=books&ie=UTF8&qid=1520701077&sr=1-1&keywords=Culture+and+Imperialism+by+Edward+Said)
 * [Dancing Arabs by Sayed Kashua](https://www.amazon.com/Dancing-Arabs-Sayed-Kashua/dp/0802141269/ref=sr_1_1?s=books&ie=UTF8&qid=1520700795&sr=1-1&keywords=dancing+arabs)
@@ -132,6 +131,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Not on Audible
 
+* [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
 * [Ansel Adams' Autobiography](https://www.amazon.com/Ansel-Adams-Autobiography/dp/0821215965/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Emerson: Essays and Lectures: Nature: Addresses and Lectures / Essays: First and Second Series / Representative Men / English Traits / The Conduct of Life (Library of America)](https://www.amazon.com/gp/product/0940450151/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
