@@ -24,6 +24,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [What Went Wrong?: The Clash Between Islam and Modernity in the Middle East by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054/ref=sr_1_1?s=books&ie=UTF8&qid=1520701048&sr=1-1&keywords=What+Went+Wrong%3F+by+Bernard+Lewis)
 * [Lila: An Inquiry into Morals by Robert Pirsig](https://www.amazon.com/Lila-Inquiry-Robert-M-Pirsig/dp/0553299611/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=lila+robert+pirsig&qid=1580153497&sprefix=JASPER+%2Caps%2C194&sr=8-1)
 * [Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West by Stephen Ambrose](https://www.amazon.com/Undaunted-Courage-Meriwether-Jefferson-American/dp/0684826976)
+* [Ansel Adams' Autobiography](https://www.amazon.com/Ansel-Adams-Autobiography/dp/0821215965)
 
 ## Have Read
 
@@ -131,9 +132,9 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Not on Audible
 
+* [Tea: A User's Guide by Tony Gebely](https://www.amazon.com/Tea-Users-Guide-Tony-Gebely-ebook/dp/B01MAXY11R)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
-* [Ansel Adams' Autobiography](https://www.amazon.com/Ansel-Adams-Autobiography/dp/0821215965/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Emerson: Essays and Lectures: Nature: Addresses and Lectures / Essays: First and Second Series / Representative Men / English Traits / The Conduct of Life (Library of America)](https://www.amazon.com/gp/product/0940450151/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 * [Thomas Jefferson : Writings : Autobiography / Notes on the State of Virginia / Public and Private Papers / Addresses / Letters (Library of America)](https://www.amazon.com/gp/product/094045016X/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * [James Madison: Writings (LOA #109) (Library of America Founders Collection)](https://www.amazon.com/gp/product/1883011663/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
