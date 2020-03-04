@@ -10,7 +10,7 @@ While nothing can beat talking face to face with a good merchant and smelling an
 * [Yunnan Jumbo Golden Buds](https://teatrekker.com/product/yunnan-jumbo-golden-buds/) - [Tea Trekker](https://teatrekker.com)
    * full, classic yunnan golden
 * [Yunnan Pearl](https://redblossomtea.com/products/yunnan-pearl?variant=31628129412) - [Red Blossom Tea](https://redblossomtea.com)
-   * my first favorite black, smoky, full
+   * my first favorite black, smoky, full, with a fruity undertone
 * [Ruby Red 18](http://dechuantea.com/products/products_intro.htm) - [Wangdechuan Tea House](http://www.dechuantea.com/)
    * Taiwanese, light, great depth, basically perfect
 * [Formosa Red #18 Mi Xiang](https://redblossomtea.com/products/formosa-red-18-mi-xiang?variant=31872083652) - [Red Blossom Tea](https://redblossomtea.com)
