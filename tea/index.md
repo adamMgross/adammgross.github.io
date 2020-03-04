@@ -19,6 +19,8 @@ While nothing can beat talking face to face with a good merchant and smelling an
    * honey-like smooth-but-kinda-heavy, great after-breath, light but very full
  * [Thai Clear Heart No. 17](https://spirittea.co/buy-black-tea/thai-clear-heart-no-17) - [Spirit Tea](https://spirittea.co/)
    * rusty, earthy-fruity base, bright but substantive
+ * A personal English breakfast style blend (~7:1 ratio) of [Yunnan Golden Sprouting Buds](https://teatrekker.com/product/yunnan-golden-sprouting-buds/) and [Assam Tippy Breakfast T.G.F.O.P.](https://teatrekker.com/product/assam-tippy-breakfast/) -- [Tea Trekker](https://teatrekker.com)
+   * buttery, woody, and creamy
 
 ### Pu-erh
 * ['Old Aroma, Old Taste' Shou Puerh](https://teatrekker.com/product/loose-leaf-old-aroma-old-taste-shou-pu-erh/) - [Tea Trekker](https://teatrekker.com)
