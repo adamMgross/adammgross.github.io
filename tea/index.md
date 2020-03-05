@@ -31,11 +31,12 @@ While nothing can beat talking face to face with a good merchant and smelling an
 ### Oolong
 * [Tung Ting Dark Roast, Formosa](https://redblossomtea.com/products/tung-ting-dark-roast?variant=31627522564) - [Red Blossom Tea](https://redblossomtea.com)
    * full, easy to extract mint-like flavor, amazing aftertaste lingers
-* Alishan Oolong - [Wangdechuan Tea House](http://www.dechuantea.com/)
+* Alishan - [Wangdechuan Tea House](http://www.dechuantea.com/)
   * extremely subtle, smooth, soft, and sweet
-* [Jin Xuan Golden Buds Milk Oolong](https://www.memteaimports.com/tea/golden-buds-milk-oolong) - [MemTea](https://www.memteaimports.com/)
-* Jin Xuan Alishan Oolong - [Wangdechuan Tea House](http://www.dechuantea.com/)
+* [Jin Xuan Golden Buds](https://www.memteaimports.com/tea/golden-buds-milk-oolong) - [MemTea](https://www.memteaimports.com/)
+* Jin Xuan Alishan - [Wangdechuan Tea House](http://www.dechuantea.com/)
   * vibrant, umami, great after-breath, slightly sweet
-  
+* [Qi Lan](https://spirittea.co/products/qi-lan) - [Spirit Tea](https://spirittea.co/)
+  * rocky, floral
 ### Green
 * N/A (yet)
