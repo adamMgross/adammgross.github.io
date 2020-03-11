@@ -2,6 +2,9 @@
 layout: default
 title: Adam's Movie/TV List
 ---
+
+<meta property="og:image" content="https://lh3.googleusercontent.com/uxvqakR27WNusb0FO0Dh1IzTW4YARp9feteSDY-vi2Eb7-ii0w0uuv7pJr2S1VudXB5VYVld9rAZy7hOWihhBsTuOfkmXG1-fijvI1pqyGSmRUmIOgW1-EmTbhDTw93U2kyBniq1WWg=w2400" />
+
 My favorite movies and TV shows:
 
 ## Movies
