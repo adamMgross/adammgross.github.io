@@ -2,6 +2,9 @@
 layout: default
 title: Adam's Academic Work
 ---
+
+<meta property="og:image" content="https://lh3.googleusercontent.com/eWvRhY3r-mXe8XcvQ_9wIz1tvlPk5bNYTS8YTPkg7g-tSp0mj0g6XQ_pNjr6HREj6w4s-8PA4Yhxf3KSt25awaSzUG1NTOLosY0erAjNHyqSXUaG_rEqBNFmdXb8No9C7XwptOAjzdo=w2400" />
+
 There are two categories to this page: my academic readings, and my academic writings. Most of the writings are History papers focusing on the Middle East, Jewish History, and most specifically the Mediterranean basin.
 
 ### Writing
