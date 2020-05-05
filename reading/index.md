@@ -22,11 +22,13 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## In Progress
 
+* [Galen Rowell's Inner Game of Outdoor Photography](https://www.amazon.com/Galen-Rowells-Inner-Outdoor-Photography/dp/039304985X/)
+* [Mountain Light: In Search of the Dynamic Landscape by Galen Rowell](https://www.amazon.com/Mountain-Light-Search-Dynamic-Landscape/dp/087156761X)
+* [A Natural History of California by Alan Schoenherr](https://www.amazon.com/Natural-History-California-Second-ebook/dp/B0714NY82Q/)
 * [The Heartbeat of Wounded Knee: Native America from 1890 to the Present by David Treuer](https://www.amazon.com/Heartbeat-Wounded-Knee-America-Present/dp/0399573194/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=the+heartbeat+of+wounded+knee&qid=1580153282&sprefix=JASPER+%2Caps%2C194&sr=8-1)
-* [What Went Wrong?: The Clash Between Islam and Modernity in the Middle East by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054/ref=sr_1_1?s=books&ie=UTF8&qid=1520701048&sr=1-1&keywords=What+Went+Wrong%3F+by+Bernard+Lewis)
-* [Lila: An Inquiry into Morals by Robert Pirsig](https://www.amazon.com/Lila-Inquiry-Robert-M-Pirsig/dp/0553299611/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=lila+robert+pirsig&qid=1580153497&sprefix=JASPER+%2Caps%2C194&sr=8-1)
-* [Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West by Stephen Ambrose](https://www.amazon.com/Undaunted-Courage-Meriwether-Jefferson-American/dp/0684826976)
-* [Ansel Adams' Autobiography](https://www.amazon.com/Ansel-Adams-Autobiography/dp/0821215965)
+* [The Sierra High Route: Traversing Timberline Country by Steve Roper](https://www.amazon.com/gp/product/0898865069/)
+* [The Decadent Society: How We Became Victims of our Own Success by Ross Douthat](https://www.amazon.com/gp/product/1476785244/)
+* [The Geologic Story of  Yosemite National Park by N. King Huber](https://www.amazon.com/gp/product/0939666499/)
 
 ## Have Read
 
@@ -34,6 +36,10 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 * [Life on the Edge: The Coming of Age of Quantum Biology by Johnjoe Mcfadden and Jim Al-Khalili](https://www.amazon.com/Life-Edge-Coming-Quantum-Biology/dp/0307986829/ref=sr_1_2?crid=1ZAIVG2RGRN8S&keywords=life+on+the+edge&qid=1580153266&sprefix=JASPER+%2Caps%2C194&sr=8-2)
 * [Zen and the Art of Motorcycle Maintenance by Robert Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/)
+* [Assembling California by John McPhee](https://www.amazon.com/Assembling-California/dp/B005C2RRK2/)
+* [What Went Wrong?: The Clash Between Islam and Modernity in the Middle East by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054/ref=sr_1_1?s=books&ie=UTF8&qid=1520701048&sr=1-1&keywords=What+Went+Wrong%3F+by+Bernard+Lewis)
+* [Notes on a Century by Bernard Lewis](https://www.amazon.com/Notes-Century-Reflections-Middle-Historian/dp/0670023531/)
+* [The Yosemite by John Muir](https://www.amazon.com/Yosemite-John-Muir/dp/1684221781/)
 
 ### 2019
 
@@ -135,6 +141,9 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Not on Audible
 
+* [Lila: An Inquiry into Morals by Robert Pirsig](https://www.amazon.com/Lila-Inquiry-Robert-M-Pirsig/dp/0553299611/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=lila+robert+pirsig&qid=1580153497&sprefix=JASPER+%2Caps%2C194&sr=8-1)
+* [Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West by Stephen Ambrose](https://www.amazon.com/Undaunted-Courage-Meriwether-Jefferson-American/dp/0684826976)
+* [Ansel Adams' Autobiography](https://www.amazon.com/Ansel-Adams-Autobiography/dp/0821215965)
 * [Tea: A User's Guide by Tony Gebely](https://www.amazon.com/Tea-Users-Guide-Tony-Gebely-ebook/dp/B01MAXY11R)
 * [Seneca's Letters](https://www.amazon.com/gp/product/022652843X/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 * [A Jew in the Lotus by Rodger Kamenetz](https://www.amazon.com/Jew-Lotus-Rediscovery-Identity-Buddhist/dp/0061367397/ref=sr_1_1?ie=UTF8&qid=1530470844&sr=8-1&keywords=the+jew+in+the+lotus)
