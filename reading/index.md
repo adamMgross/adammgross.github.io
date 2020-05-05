@@ -118,6 +118,8 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### On Audible
 
+* [The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures by Annie Fadiman](https://www.amazon.com/Spirit-Catches-You-Fall-Down/dp/B00UZ9BD8E/)
+* [Born in Blood and Fire: Fourth Edition: A Concise History of Latin America by John Charles Chasteen](https://www.amazon.com/Born-Blood-Fire-Concise-History/dp/B0845VQSH3)
 * [Seasteading: How Floating Nations Will Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate Humanity from Politicians by Patri Friedman](https://www.amazon.com/Seasteading-Floating-Environment-Liberate-Politicians/dp/1451699263/)
 * [Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
 * [The Empire of Tea by Alan and Iris McFarlane](https://www.amazon.com/Empire-Tea-Remarkable-History-Plant/dp/B003EN3K66/ref=sr_1_10?keywords=the+empire+of+tea&qid=1560271873&s=gateway&sr=8-10)
@@ -141,6 +143,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 #### Not on Audible
 
+* [Why Some Like It Hot: Food, Genes, and Cultural Diversity by Gary Paul Nabhan](https://www.amazon.com/Why-Some-Like-Hot-Diversity-dp-1559634669/dp/1559634669/)
 * [Lila: An Inquiry into Morals by Robert Pirsig](https://www.amazon.com/Lila-Inquiry-Robert-M-Pirsig/dp/0553299611/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=lila+robert+pirsig&qid=1580153497&sprefix=JASPER+%2Caps%2C194&sr=8-1)
 * [Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West by Stephen Ambrose](https://www.amazon.com/Undaunted-Courage-Meriwether-Jefferson-American/dp/0684826976)
 * [Ansel Adams' Autobiography](https://www.amazon.com/Ansel-Adams-Autobiography/dp/0821215965)
