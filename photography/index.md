@@ -9,17 +9,44 @@ color: white
 
 ## See: [adamgross.photography](http://adamgross.photography) for more
 
-I am an extremely enthusiastic nature photographer. My love for nature photography was sparked, ironically, through spending hours upon hours sitting at my personal computer as a kid choosing desktop wallpaper photos. I got my first personal computer in 1999, right when PC desktops started featuring beautiful landscapes as their backgrounds (remember ["Bliss"](https://en.wikipedia.org/wiki/Bliss_(image)) from WindowsXP?). As a kid I found myself getting caught up in the endless rabbit hole of choosing beautiful backgrounds for my computer, and in hindsight I think this instilled in me a deep appreciation for nature fine art photography, and a well-trained sensibility for composition and the beautiful aesthetic possibilities in nature photography. Over time, Apple has really kept this movement going with beautiful pictures of California -- Yosemite, the Mojave, and the Sierra -- as options for their backgrounds. This has helped refine my taste and spark my desire to get out in the California wilderness.
+I arrived at becoming a devoted nature photographer through a natural confluence of many of my core personal passions: sunset chasing, cloud watching, hiking, wilderness solitude, math, engineering and technical precision, fractals, travel, memory, spirituality, and aesthetics. But most importantly, cloud watching. I think clouds are the coolest things ever. It is a wholly selfish pursuit, as chasing clouds and the sun through beautiful wilderness invigorates me with the highest sense of vitality and spirituality, and returning from such trips with great images of the experience is both a great personal party favor, and a more effective means of communicating and sharing my experience with others than any words could be.
 
-![](https://lh3.googleusercontent.com/_8CmGY_E0c5LZhn8r0dkuYqExJjUwnWPnYD00ZFBjDv_Ft0RD_sR2lurk9mwM59kd1ybfq0UIwtRMyBHdrvtUNWM6ziqzfyuKFZvUJxgILoGjN--iWQcMnQaQKEYli748-afHdBaKw=w2400){: height="240px" width="360px" style="float:left; padding:16px"}
+![](https://lh3.googleusercontent.com/_BBSN5Mzhb1U7mU5veoAp4dMEe1VFdfg48l8U-zGd9cA-EYjoHAwuRn4zfHjsNa_EujKLTIgurxz-XXPXFhCR-CNsyh40skQuPWYXdMBqiVRmhtqf4MM-1ZL4GhEG3JZd_g8JZsn3J0=w1920-h1080){: height="240px" width="360px" style="float:left; padding:16px"}
 
-This was all festering under the hood, however, as I had no conscious interest in photography until I started spending more time in nature. As photographing life exploded in the 2010s with smartphones and social media, I began to get frustrated with how inadequate my smartphone was in capturing the vistas I was experiencing. With my father and grandfather as guides, I began getting serious with camera gear and seeking out pure nature scenes. Upon moving back to California after college, I was able to begin a deep dive into the American West, and especially California. With Ansel Adams, John Muir, and QT Luong as inspiration, I now indulge in hiking, backpacking, and road tripping around the beautiful nature in my vicinity and continue to hone my ability to capture the pristine natural beauty I encounter. It is both an aesthetic and spiritual endeavor, as I find my true self in nature, indulge in emotional and philosophical catharsis, and detoxify from the issues brought onto me by modern civilization.
+In addition to clouds, I also love rocks and water. In rock formations and water features I find humility, as they instill in me a sense of the grand time scale that nature operates on. In wilderness solitude I find a peaceful tranquility and antidote to the toxins with which modern urban civilization threatens me. As a resident of Southern California, the opportunities to indulge in my passions are many, as I spend the majority of my free time in the Sierra Nevada or the Mojave Desert. They are my happy places.
 
-![](https://lh3.googleusercontent.com/8YfVSJ7Js56D1LnjgBX8-3Vw2CHt5L-uUEFqJCHWoU5OEB0jF1_tHwSP9F6Xw_mBnvwXZn5z5nLidGKkI3XToCpB05FiaZZKswmybf11syDfEbmSMBMxffrc5Ghyf8_zyFwgXqRX3B4=w2400){: height="240px" width="360px" style="float:right; padding:16px"}
+![](https://lh3.googleusercontent.com/7vw9nfO1K2ouD7UToSE3d1L4hqmQID6xMcyd7GyfYgfjufX3KjIigcy6qiqGISfymtdOezBuQeXhFhSsRQ_qnr6otCDqHIUPB2rxlMljCiGeBVIHprSvwIjADOmULB_QswETa5UJDuI=w1920-h1080){: height="240px" width="360px" style="float:right; padding:16px"}
 
-I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me (see [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)). For my photos, I use a digital mirrorless camera and a drone. I am my own main audience, as I add my top shots to a folder which my personal and work computers each use as the source of their desktop backgrounds, going through the pictures in a random order, changing every 15 minutes. When people don't realize that my desktop backgrounds are self-shot and think they are defaults that came with the OS, that is a win for me.
+Ansel Adams, John Muir, Galen Rowell, and QT Luong are more than photography influences for me, they are spiritual guides on how to live a happy and meaningful life through engagement with nature's glory. I will forever be indebted to them for the inspiration and guidance, both directly and indirectly, that they have provided for me.
 
-I have a separate website for my photography: **[adamgross.photography](http://adamgross.photography)**. This features pictures from Yosemite, Alaska, the Eastern Sieera Nevada, Kings Canyon, Death Valley, Joshua Tree, Malibu, Cabo, Hong Kong, Arches, Canyonlands, Bryce Canyon, and Zion. My reading for inspiration and learning is listed below, as well as a few of my best pictures.
+I have no formal training in photography and use the internet minimally for photography education. I believe that intuitive training through iterative trial and error is the best approach for me (see [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)). For my photos, I use a digital mirrorless camera and a drone. So far, I have four main regions that I've explored photographically, each of which comprises of a section of [my recently published book, dedicated to my grandfather, on the American West](/the_american_west). See [my Flickr profile here](https://flickr.com/people/153383938@N03/).
+
+### Influences
+
+My most prominent photography idols and influencers are:
+* [Ansel Adams](https://www.anseladams.com/gallery/welcome/about-ansel-adams/)
+* [William Neil](http://portfolios.williamneill.com/)
+* [QT Luong](https://terragalleria.com/)
+* [Galen Rowell](http://www.mountainlight.com/)
+* [Bob Kaufman](https://bobkaufman.com/gallery/)
+* [Alan Majchrowicz](http://alanmajchrowicz.com/)
+* [Greg Lawson](https://greglawsongalleries.com/)
+* [Nolan Nitschke](https://www.thesierralight.com/)
+* [Bernhard Edmaier](https://www.bernhard-edmaier.de/en/)
+* [Joe Braun](https://www.citrusmilo.com/)
+* [Jack Brauer](https://www.mountainphotography.com/gallery/)
+* [Vern Clevenger](https://vernclevenger.com/)
+* [Erin Babnik](https://erinbabnik.com/)
+* [Tom Till](https://tomtill.com/)
+* [Sarah Marino](https://photos.naturephotoguides.com/Sarah)
+* [Sean Bagshaw](https://www.outdoorexposurephoto.com/)
+* [Michael Frye](https://www.michaelfrye.com/)
+* [Tad Bownman](https://www.tadbowman.com/)
+* [Adam Schallau](https://adamschallau.com/)
+* [Max Foster](https://www.maxfosterphotography.com/)
+* [Aaron Reed](https://www.aaronreedphotography.com/)
+* [Joshua Cripps](https://www.joshuacripps.com/)
+* [Colby Brown](https://colbybrown.smugmug.com/)
 
 #### Reading
 
