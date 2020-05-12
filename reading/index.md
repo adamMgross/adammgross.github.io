@@ -23,17 +23,17 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 ## In Progress
 
 * [Galen Rowell's Inner Game of Outdoor Photography](https://www.amazon.com/Galen-Rowells-Inner-Outdoor-Photography/dp/039304985X/)
-* [Mountain Light: In Search of the Dynamic Landscape by Galen Rowell](https://www.amazon.com/Mountain-Light-Search-Dynamic-Landscape/dp/087156761X)
 * [A Natural History of California by Alan Schoenherr](https://www.amazon.com/Natural-History-California-Second-ebook/dp/B0714NY82Q/)
 * [The Heartbeat of Wounded Knee: Native America from 1890 to the Present by David Treuer](https://www.amazon.com/Heartbeat-Wounded-Knee-America-Present/dp/0399573194/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=the+heartbeat+of+wounded+knee&qid=1580153282&sprefix=JASPER+%2Caps%2C194&sr=8-1)
 * [The Sierra High Route: Traversing Timberline Country by Steve Roper](https://www.amazon.com/gp/product/0898865069/)
 * [The Decadent Society: How We Became Victims of our Own Success by Ross Douthat](https://www.amazon.com/gp/product/1476785244/)
-* [The Geologic Story of  Yosemite National Park by N. King Huber](https://www.amazon.com/gp/product/0939666499/)
+* [The Geologic Story of Yosemite National Park by N. King Huber](https://www.amazon.com/gp/product/0939666499/)
 
 ## Have Read
 
 ### 2020
 
+* [Mountain Light: In Search of the Dynamic Landscape by Galen Rowell](https://www.amazon.com/Mountain-Light-Search-Dynamic-Landscape/dp/087156761X)
 * [Life on the Edge: The Coming of Age of Quantum Biology by Johnjoe Mcfadden and Jim Al-Khalili](https://www.amazon.com/Life-Edge-Coming-Quantum-Biology/dp/0307986829/ref=sr_1_2?crid=1ZAIVG2RGRN8S&keywords=life+on+the+edge&qid=1580153266&sprefix=JASPER+%2Caps%2C194&sr=8-2)
 * [Zen and the Art of Motorcycle Maintenance by Robert Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/)
 * [Assembling California by John McPhee](https://www.amazon.com/Assembling-California/dp/B005C2RRK2/)
