@@ -19,6 +19,9 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Antonio Carlos Jobim: An Illuminated Man by Helena Jobim ](https://www.amazon.com/Antonio-Carlos-Jobim-Illuminated-Man/dp/161780343X/ref=sr_1_1?s=books&ie=UTF8&qid=1520699675&sr=1-1&keywords=antonio+carlos+jobim+an+illuminated+man)
 * [The Undoing Project by Michael Lewis](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776/ref=sr_1_1?s=books&ie=UTF8&qid=1520699686&sr=1-1&keywords=the+undoing+project)
 * [Zen and the Art of Motorcycle Maintenance by Robert Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/)
+* [Technopoly: The Surrender of Culture to Technology by Neil Postman](https://www.amazon.com/Technopoly-Surrender-Technology-Neil-Postman/dp/0679745408/)
+* [Amusing Ourselves to Death: Public Discourse in the Age of Show Business by Neil Postman](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
+* [The Decadent Society: How We Became Victims of our Own Success by Ross Douthat](https://www.amazon.com/gp/product/1476785244/)
 
 ## In Progress
 
@@ -26,13 +29,15 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [A Natural History of California by Alan Schoenherr](https://www.amazon.com/Natural-History-California-Second-ebook/dp/B0714NY82Q/)
 * [The Heartbeat of Wounded Knee: Native America from 1890 to the Present by David Treuer](https://www.amazon.com/Heartbeat-Wounded-Knee-America-Present/dp/0399573194/ref=sr_1_1?crid=1ZAIVG2RGRN8S&keywords=the+heartbeat+of+wounded+knee&qid=1580153282&sprefix=JASPER+%2Caps%2C194&sr=8-1)
 * [The Sierra High Route: Traversing Timberline Country by Steve Roper](https://www.amazon.com/gp/product/0898865069/)
-* [The Decadent Society: How We Became Victims of our Own Success by Ross Douthat](https://www.amazon.com/gp/product/1476785244/)
 * [The Geologic Story of Yosemite National Park by N. King Huber](https://www.amazon.com/gp/product/0939666499/)
 
 ## Have Read
 
 ### 2020
 
+* [Technopoly: The Surrender of Culture to Technology by Neil Postman](https://www.amazon.com/Technopoly-Surrender-Technology-Neil-Postman/dp/0679745408/)
+* [Amusing Ourselves to Death: Public Discourse in the Age of Show Business by Neil Postman](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
+* [The Decadent Society: How We Became Victims of our Own Success by Ross Douthat](https://www.amazon.com/gp/product/1476785244/)
 * [Galen Rowell's Inner Game of Outdoor Photography](https://www.amazon.com/Galen-Rowells-Inner-Outdoor-Photography/dp/039304985X/)
 * [Technopoly: The Surrender of Culture to Technology by Neil Postman](https://www.amazon.com/Technopoly-Surrender-Culture-Technology/dp/B009991K6Q/)
 * [Mountain Light: In Search of the Dynamic Landscape by Galen Rowell](https://www.amazon.com/Mountain-Light-Search-Dynamic-Landscape/dp/087156761X)
