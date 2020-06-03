@@ -39,7 +39,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Amusing Ourselves to Death: Public Discourse in the Age of Show Business by Neil Postman](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
 * [The Decadent Society: How We Became Victims of our Own Success by Ross Douthat](https://www.amazon.com/gp/product/1476785244/)
 * [Galen Rowell's Inner Game of Outdoor Photography](https://www.amazon.com/Galen-Rowells-Inner-Outdoor-Photography/dp/039304985X/)
-* [Technopoly: The Surrender of Culture to Technology by Neil Postman](https://www.amazon.com/Technopoly-Surrender-Culture-Technology/dp/B009991K6Q/)
 * [Mountain Light: In Search of the Dynamic Landscape by Galen Rowell](https://www.amazon.com/Mountain-Light-Search-Dynamic-Landscape/dp/087156761X)
 * [Life on the Edge: The Coming of Age of Quantum Biology by Johnjoe Mcfadden and Jim Al-Khalili](https://www.amazon.com/Life-Edge-Coming-Quantum-Biology/dp/0307986829/ref=sr_1_2?crid=1ZAIVG2RGRN8S&keywords=life+on+the+edge&qid=1580153266&sprefix=JASPER+%2Caps%2C194&sr=8-2)
 * [Zen and the Art of Motorcycle Maintenance by Robert Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/)
