@@ -75,6 +75,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Skin in the Game by Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
 * [Black Swan by Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)
 * [Antifragile by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+* [Another Day Not Wasted by Guy Tal](https://www.amazon.com/Another-Day-Not-Wasted-Meditations/dp/0998785725)
 
 ## History
 
