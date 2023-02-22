@@ -5,7 +5,7 @@ title: Adam's Reading List
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/RXJPHV3RcEEWHaVploLqs62_Kr-izpGkX505_xTKCW6GU0E16JtS-P-XK-Ry6WuLZwR3CcV_RNiECp60z-W65xmw1nCCjkYbX4DFTImwmDmz3zeBzhF8NuYbqfPUHACM0mGB75O_6aI=w2400" />
 
-Here is a list of books that I have enjoyed. This includes fiction and non-fiction (but is mostly non-fiction). **There is a separate section of this site called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies, and a listing of books in the [photography section](/photography) that I have read for my photography, hiking, and nature interests.**
+Here is a list of books that I have enjoyed. **There is a separate section of this site called [academic work](/academic_work) that contains the content I have read for my Middle Eastern History studies, and a listing of books in the [photography section](/photography) that I have read for my photography, hiking, and nature interests.**
 
 ## TL;DR Book Hall of Fame
 
@@ -15,9 +15,11 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [The World Until Yesterday by Jared Diamond](https://www.amazon.com/World-Until-Yesterday-Traditional-Societies/dp/0143124404)
 * [Technopoly: The Surrender of Culture to Technology by Neil Postman](https://www.amazon.com/Technopoly-Surrender-Technology-Neil-Postman/dp/0679745408/)
 * [The Decadent Society: How We Became Victims of our Own Success by Ross Douthat](https://www.amazon.com/gp/product/1476785244/)
+* [Food of the Gods by Terence McKenna](https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304)
 
 ## Nature
 
+* [The Revolutionary Genius of Plants by Stefano Mancuso](https://www.amazon.com/Revolutionary-Genius-Plants-Understanding-Intelligence/dp/1501187856)
 * [This is Your Mind on Plants by Michael Pollan](https://www.amazon.com/This-Your-Mind-Plants/dp/B08RF1K2LD)
 * [Finding the Mother Tree by Suzanne Simard](https://www.amazon.com/Finding-Mother-Tree-Discovering-Wisdom/dp/B08LDXXN29)
 * [The Revolutionary Genuis of Plants by Stefano Mancuso](https://www.amazon.com/Revolutionary-Genius-Plants-Understanding-Intelligence/dp/B07DWFJR7K)
@@ -35,6 +37,8 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 
 ## Society
 
+* [The Revolt of The Public and the Crisis of Authority in the New Millennium by Martin Gurri](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143)
+* [Sacred Instructions: Indigenous Wisdom for Living Spirit-Based Change by Sherri Mitchell](https://www.amazon.com/Sacred-Instructions-Indigenous-Wisdom-Spirit-Based/dp/1623171954)
 * [Power to the People by Audrey Kurth Cronin](https://www.amazon.com/Power-People-Technological-Innovation-Terrorists-ebook/dp/B07XVPZ3W3)
 * [The War on the West by Douglas Murray](https://www.amazon.com/The-War-on-the-West/dp/B09HL8SBL2)
 * [Girlhood by Melissa Febos](https://www.amazon.com/Girlhood/dp/B08ZYT46XS)
@@ -61,6 +65,7 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [The Seventh Sense by Joshua Cooper Ramo](https://www.amazon.com/Seventh-Sense-Fortune-Survival-Networks/dp/0316285072)
 * [Nudge by Richard Thaler and Cass Sunstein](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X)
 * [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+* [Weapons of Math Destruction by Cathy O'neil](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831)
 
 ## Philosophy
 
@@ -76,9 +81,11 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [Black Swan by Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)
 * [Antifragile by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
 * [Another Day Not Wasted by Guy Tal](https://www.amazon.com/Another-Day-Not-Wasted-Meditations/dp/0998785725)
+* [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 
 ## History
 
+* [Food of the Gods by Terence McKenna](https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304)
 * [What Went Wrong?: The Clash Between Islam and Modernity in the Middle East by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054)
 * [Notes on a Century by Bernard Lewis](https://www.amazon.com/Notes-Century-Reflections-Middle-Historian/dp/0670023531/)
 * [Fields of Blood: Religion and the History of Violence by Karen Armstrong](https://www.amazon.com/Fields-Blood-Religion-History-Violence/dp/0307957047)
@@ -97,13 +104,6 @@ Here is a list of books that I have enjoyed. This includes fiction and non-ficti
 * [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245)
 * [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0)
 * [Wild Life by Robert Trivers](https://www.amazon.com/Wild-Life-Adventures-Evolutionary-Biologist/dp/1938972120)
-* [Weapons of Math Destruction by Cathy O'neil](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831)
-* [Homo Deus by Yuval Harari](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 * [Antonio Carlos Jobim: An Illuminated Man by Helena Jobim ](https://www.amazon.com/Antonio-Carlos-Jobim-Illuminated-Man/dp/161780343X)
 * [The Undoing Project by Michael Lewis](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
 * [The Autobiography of Benjamin Franklin](https://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin)
-
-## Fiction
-
-* [Kafka on the Shore by Haruki Murakami](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276)
-* [The Left Hand of Darkness by Ursula Le Guin](https://www.amazon.com/gp/product/0143111590)
