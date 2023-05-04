@@ -5,7 +5,7 @@ title: About Adam
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/eWvRhY3r-mXe8XcvQ_9wIz1tvlPk5bNYTS8YTPkg7g-tSp0mj0g6XQ_pNjr6HREj6w4s-8PA4Yhxf3KSt25awaSzUG1NTOLosY0erAjNHyqSXUaG_rEqBNFmdXb8No9C7XwptOAjzdo=w2400" />
 
-I am a [software engineer](https://www.linkedin.com/in/amgross4/) and [landscape photographer](https://adamgross.photography) based in Los Angeles. I currently work on scientific computing at [CarbonCapture, Inc.](https://www.carboncapture.com/). My undergraduate studies were in Computer Science, Math, and History with a concentration in the Middle East and North Africa. In addition to those academic areas, I also love all of the following (in no particular order):
+I am a [software engineer](https://www.linkedin.com/in/amgross4/) and [landscape photographer](https://adamgross.photography) based in Los Angeles. I currently work on scientific computing at [CarbonCapture, Inc](https://www.carboncapture.com/). My undergraduate studies were in Computer Science, Math, and History with a concentration in the Middle East and North Africa. In addition to those academic areas, I also love all of the following (in no particular order):
 
 * Backpacking and Hiking
 * Nature Photography
