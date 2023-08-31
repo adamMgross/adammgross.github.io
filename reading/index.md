@@ -37,6 +37,7 @@ Here is a list of books that I have enjoyed. **There is a separate section of th
 
 ## Society
 
+* [The Wayfinders: Why Ancient Wisdom Matters in the Modern World by Wade Davis](https://www.amazon.com/The-Wayfinders-Wade-Davis-audiobook/dp/B074CLP5JN)
 * [The Revolt of The Public and the Crisis of Authority in the New Millennium by Martin Gurri](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143)
 * [Sacred Instructions: Indigenous Wisdom for Living Spirit-Based Change by Sherri Mitchell](https://www.amazon.com/Sacred-Instructions-Indigenous-Wisdom-Spirit-Based/dp/1623171954)
 * [Power to the People by Audrey Kurth Cronin](https://www.amazon.com/Power-People-Technological-Innovation-Terrorists-ebook/dp/B07XVPZ3W3)
@@ -85,6 +86,7 @@ Here is a list of books that I have enjoyed. **There is a separate section of th
 
 ## History
 
+* [Facing East from Indian Country: A Native History of Early America by Daniel Richter](https://www.amazon.com/Facing-East-from-Indian-Country-audiobook/dp/B07KFLKD6P)
 * [Food of the Gods by Terence McKenna](https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304)
 * [What Went Wrong?: The Clash Between Islam and Modernity in the Middle East by Bernard Lewis](https://www.amazon.com/What-Went-Wrong-Between-Modernity/dp/0060516054)
 * [Notes on a Century by Bernard Lewis](https://www.amazon.com/Notes-Century-Reflections-Middle-Historian/dp/0670023531/)
@@ -104,6 +106,8 @@ Here is a list of books that I have enjoyed. **There is a separate section of th
 * [A Passion for Nature: The Life of John Muir by Donald Worster](https://www.amazon.com/Passion-Nature-Life-John-Muir/dp/0199782245)
 * [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0)
 * [Wild Life by Robert Trivers](https://www.amazon.com/Wild-Life-Adventures-Evolutionary-Biologist/dp/1938972120)
+* [Champlain's Dream by David Hackett Fischer](https://www.amazon.com/Champlains-Dream-David-Hackett-Fischer/dp/1416593330)
+* * [Thomas Jefferson: The Art of Power by Jon Meacham](https://www.amazon.com/Thomas-Jefferson-Art-Power/dp/B009WWOFIU)
 * [Antonio Carlos Jobim: An Illuminated Man by Helena Jobim ](https://www.amazon.com/Antonio-Carlos-Jobim-Illuminated-Man/dp/161780343X)
 * [The Undoing Project by Michael Lewis](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
 * [The Autobiography of Benjamin Franklin](https://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin)
