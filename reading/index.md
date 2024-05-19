@@ -34,6 +34,7 @@ Here is a list of books that I have enjoyed. **There is a separate section of th
 * [The Yosemite by John Muir](https://www.amazon.com/Yosemite-John-Muir/dp/1684221781)
 * [Coming Into the Country by John McPhee](https://www.amazon.com/gp/product/0374522871)
 * [My First Summer in the Sierra by John Muir](https://www.amazon.com/First-Summer-Sierra-John-Muir/dp/1423649125)
+* [American Terroir by Rowan Jacobsen](https://www.amazon.com/American-Terroir-Savoring-Flavors-Waters/dp/B00C7YV39E)
 
 ## Society
 
@@ -99,6 +100,8 @@ Here is a list of books that I have enjoyed. **There is a separate section of th
 * [Understanding the Present by Bryan Appelyard](https://www.amazon.com/UNDERSTANDING-PRESENT-Bryan-Appleyard/dp/0385420714)
 * [Life on the Edge: The Coming of Age of Quantum Biology by Johnjoe Mcfadden and Jim Al-Khalili](https://www.amazon.com/Life-Edge-Coming-Quantum-Biology/dp/0307986829)
 * [Herodotus' Histories](https://en.wikipedia.org/wiki/Histories_(Herodotus))
+* [The Children of Athena: Greek Writers and Thinkers in the Age of Rome, 150 BC-AD 400 by Charles Freeman](https://www.amazon.com/Children-Athena-Greek-Intellectuals-BC-400/dp/163936515X)
+* [Albion's Seed: Four British Folkways in America](https://www.amazon.com/Albions-Seed-British-Folkways-cultural/dp/0195069056)
 
 ## Biography
 
