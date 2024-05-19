@@ -110,7 +110,7 @@ Here is a list of books that I have enjoyed. **There is a separate section of th
 * [Heretic by Aayan Hirsi Ali](https://www.amazon.com/Heretic-Why-Islam-Needs-Reformation-ebook/dp/B00FVW8MH0)
 * [Wild Life by Robert Trivers](https://www.amazon.com/Wild-Life-Adventures-Evolutionary-Biologist/dp/1938972120)
 * [Champlain's Dream by David Hackett Fischer](https://www.amazon.com/Champlains-Dream-David-Hackett-Fischer/dp/1416593330)
-* * [Thomas Jefferson: The Art of Power by Jon Meacham](https://www.amazon.com/Thomas-Jefferson-Art-Power/dp/B009WWOFIU)
+* [Thomas Jefferson: The Art of Power by Jon Meacham](https://www.amazon.com/Thomas-Jefferson-Art-Power/dp/B009WWOFIU)
 * [Antonio Carlos Jobim: An Illuminated Man by Helena Jobim ](https://www.amazon.com/Antonio-Carlos-Jobim-Illuminated-Man/dp/161780343X)
 * [The Undoing Project by Michael Lewis](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
 * [The Autobiography of Benjamin Franklin](https://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin)
