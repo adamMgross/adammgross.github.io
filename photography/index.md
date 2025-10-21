@@ -7,7 +7,7 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/8YfVSJ7Js56D1LnjgBX8-3Vw2CHt5L-uUEFqJCHWoU5OEB0jF1_tHwSP9F6Xw_mBnvwXZn5z5nLidGKkI3XToCpB05FiaZZKswmybf11syDfEbmSMBMxffrc5Ghyf8_zyFwgXqRX3B4=w2400" />
 
-See my [Flickr Portfolio](https://flickr.com/photos/153383938@N03/albums).
+See my [Flickr Portfolio](https://flickr.com/photos/153383938@N03/albums):
 
 * [Sierra Nevada](https://flic.kr/s/aHBqjCyaaV)
 * [American Rockies](https://flic.kr/s/aHBqjCyadA)
