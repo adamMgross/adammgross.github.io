@@ -7,41 +7,18 @@ color: white
 
 <meta property="og:image" content="https://lh3.googleusercontent.com/8YfVSJ7Js56D1LnjgBX8-3Vw2CHt5L-uUEFqJCHWoU5OEB0jF1_tHwSP9F6Xw_mBnvwXZn5z5nLidGKkI3XToCpB05FiaZZKswmybf11syDfEbmSMBMxffrc5Ghyf8_zyFwgXqRX3B4=w2400" />
 
-## See: [adamgross.photography](http://adamgross.photography) for more
+See my [Flickr Portfolio](https://flickr.com/photos/153383938@N03/albums).
 
-I arrived at becoming a devoted nature photographer through a natural confluence of many of my core personal passions: sunset chasing, cloud watching, hiking, wilderness solitude, math, engineering and technical precision, fractals, travel, memory, spirituality, and aesthetics. But most importantly, cloud watching. I think clouds are the coolest things ever. It is a wholly selfish pursuit, as chasing clouds and the sun through beautiful wilderness invigorates me with the highest sense of vitality and spirituality, and returning from such trips with great images of the experience is both a great personal party favor, and a more effective means of communicating and sharing my experience with others than any words could be.
-
-
-In addition to clouds, I also love rocks and water. In rock formations and water features I find humility, as they instill in me a sense of the grand time scale that nature operates on. In wilderness solitude I find a peaceful tranquility and antidote to the toxins with which modern urban civilization threatens me. As a resident of Southern California, the opportunities to indulge in my passions are many, as I spend the majority of my free time in the Sierra Nevada or the Mojave Desert. They are my happy places.
-
-Ansel Adams, John Muir, Galen Rowell, and QT Luong are more than photography influences for me, they are spiritual guides on how to live a happy and meaningful life through engagement with nature's glory. I will forever be indebted to them for the inspiration and guidance, both directly and indirectly, that they have provided for me.
-
-### Influences
-
-My most prominent photography idols and influences are:
-* [Ansel Adams](https://www.anseladams.com/gallery/welcome/about-ansel-adams/)
-* [William Neil](http://portfolios.williamneill.com/)
-* [QT Luong](https://terragalleria.com/)
-* [Galen Rowell](http://www.mountainlight.com/)
-* [Bob Kaufman](https://bobkaufman.com/gallery/)
-* [Alan Majchrowicz](http://alanmajchrowicz.com/)
-* [Greg Lawson](https://greglawsongalleries.com/)
-* [Nolan Nitschke](https://www.thesierralight.com/)
-* [Bernhard Edmaier](https://www.bernhard-edmaier.de/en/)
-* [Joe Braun](https://www.citrusmilo.com/)
-* [Jack Brauer](https://www.mountainphotography.com/gallery/)
-* [Vern Clevenger](https://vernclevenger.com/)
-* [Erin Babnik](https://erinbabnik.com/)
-* [Tom Till](https://tomtill.com/)
-* [Sarah Marino](https://photos.naturephotoguides.com/Sarah)
-* [Sean Bagshaw](https://www.outdoorexposurephoto.com/)
-* [Michael Frye](https://www.michaelfrye.com/)
-* [Tad Bownman](https://www.tadbowman.com/)
-* [Adam Schallau](https://adamschallau.com/)
-* [Max Foster](https://www.maxfosterphotography.com/)
-* [Aaron Reed](https://www.aaronreedphotography.com/)
-* [Joshua Cripps](https://www.joshuacripps.com/)
-* [Colby Brown](https://colbybrown.smugmug.com/)
+* [Sierra Nevada](https://flic.kr/s/aHBqjCyaaV)
+* [American Rockies](https://flic.kr/s/aHBqjCyadA)
+* [Pacific Coast](https://flic.kr/s/aHBqjCyafj)
+* [Canadian Rockies](https://flic.kr/s/aHBqjCy1Fs)
+* [Appalachian Mountains](https://flic.kr/s/aHBqjCy7fF)
+* [Alaska](https://flic.kr/s/aHBqjCy3zt)
+* [Hawaii](https://flic.kr/s/aHBqjCy1FT)
+* [Europe](https://flic.kr/s/aHBqjCyaeC)
+* [American Deserts](https://flic.kr/s/aHBqjCy3Db)
+* [Street Photography](https://flic.kr/s/aHBqjCy3Ed)
 
 #### Reading
 
